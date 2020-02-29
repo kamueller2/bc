@@ -1,0 +1,72 @@
+.navbar .navbar-nav li a > {
+  display: inline-block;
+  position: relative;
+  padding-left: 1px;
+  width: 16px;
+  height: 16px;
+  top: -8px;
+  right: -8px;
+  border-radius: 100px;
+  background: #EF413F;
+  color: #fff;
+  font-size: 10px;
+  line-height: 16px;
+  text-align: center;
+}
+
+.intro {
+  text-align: justify;
+
+}
+
+#tan {
+  /* background-color: #FFF2E6; */
+  background-color: #D9C4B8;
+}
+
+.navbar {
+  margin-top: 30px;
+}
+
+h1, .pt-dark {
+  color: black;
+}
+
+#smaller {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.blk {
+  color: black;
+}
+
+.red {
+  color: #EA2F3A;
+}
+
+
+.container-hero {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+ul {
+  margin-left: 10px;
+}
+
+.push {
+  margin-right: 40px;
+}
+
+.move-center {
+  margin-left: 525px;
+}
